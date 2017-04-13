@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LED Flashlight</string>
+    <string name="menu_settings">Settings</string>
+    <string name="hello_world">Hello!</string>
+    <string name="banner_id" translatable="false">ca-app-pub-8174585382387411/4069474285</string>
+
+    
+</resources>

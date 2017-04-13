@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.2.0_ca339e781c51efd637b2a8139822fa9a5bbcde06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3f7595ca32e614b454ceb7b7e241bb037a28e86">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.2.0_05845b959b6dbdedfc1b27c4e3165eead3b0e032\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1bab75be1918fc9871be4da7afe38d7e4d308303">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.2.0_f28f7ad175ca7174a6b4ea67ac097e141a3fbc40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.2.0_06be9e0ec38cb626eb4a1526f1d66ae6b44c070d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_4bb462faa6662ac50405c61c9a29d2677c89788a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f58195bee8a08f35e7d4ee7fd4b0479e570e172">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.2.0_8331086678078eb5d196197ba4e43c09abc55142\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.2.0_e51ce83e4948786700227a1e0b1fefcfef23b944\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_925243f8bb7217e5e5d1996967d0d48ad53fab32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.2.0_1c1b54376cc6a83f10e9a1fed7d74a1680b830cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.2.0_61dc53367c9ceffaeec8e8eb1f879e3cb9f01697\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\gun0912.ted\tedpermission\1.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e0891a69f24747a6988698a57fd55825b31251fa">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\gun0912.ted-tedpermission-1.0.3_a9cb1d8ba4987c2ad2102cee78b59a10f0abbafc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_e7ae3b58360163adbcf7a3d10fb29f6b2bdb5421\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.2.0_ea9944fbe09ff3c16ac8d58b347153944270435d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="646b2c48e147b943f0a39842457fdc66d501e4b6">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.2.0_9734b63254f69031741e2fd5010fca7da9d9a52c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="53a4d4d4d5a9567d7438b9353e58a925238ab5c3">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_97eb41e0b0d84ec309063b9005724489d47655b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fd2e9eadc9d214966ee7f60d6c5a17a335d7533">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.2.0_dd4ce619ec2d4de60f66901c6069d12ad85ca768\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca82d5800780b1d53f0f9ab43678d8634a34cddc">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.2.0_fddfe185864b82cac472a5a5673684ef8da8cf1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d08bb32b88df3dbcbe1d498c3c57f020b8c521ec">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.2.0_272db87b08d8f9ae75804685d72a754483cc8cfb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea03bbfaed89818f233ee9918fac493f2b63895a">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.2.0_194d464cea5d424696f4ce8097467224439555b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45e0953544711e0b5a2d227732e88cccb82793bc">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.2.0_17a00a9dbad7001ba5312e6db24b222ce9cdc2db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.2.0_4b0aa87547c9f8a8e3771c306374c1be3f9e56ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.2.0_6d8bdf5e07a78c3298a58b3b70452047c7891637\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.2.0_90cc538dc36542c7f3c326697751bcb0891476b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_0b376bf16b0e6ac6440f1986e08313f41433c94e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="654b294d429b56fd18392f2b68ad79954f431f8e">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.2.0_8997c75029b9ae6993d1e42d378f53ab8c3e73b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="90270132a5f1a33584f453c571257dd35e728201">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.2.0_6a36dc31b34355e112b369d1f0d6d79f7f21a4fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_8a8f735171de1748505c2694d091d63899e1d5e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68485f21eeb5d6c9ed82c445d520b9fc81c87108">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.2.0_7971c7142f7ffcf9f692dee90d64bcdfd3688b7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="421a5cebe9ff187c98075c59786e9464c5c67d36">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.2.0_6f642b5ea511501dd974717fa47d621d36c0169e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.2.0_aa407ca64a04f2fb40fb1bb1ab276b97b5ff381a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fbf3733f36fea63e70373212796e70f9079981f">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.2.0_f86e75749652a5f75d1aca4f40193ff5d7dcc68a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab0c7fe28f9506302eb39adf1ebf5858732e18ec">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.2.0_ba906c1d2ef0dff80d333e0f93457ac1cf3f8dcc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8438c64f9eb581429dc592f7c9b3156a3d071653">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.2.0_24ddfcbe47d82c747dfb44ab904594018a545277\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.2.0_f9539bc3faac2608ca1410ce60233844bbf531e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.2.0_d18ea0ee8532e245bcbcc8cc946f3e18b5858597\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a9493f008850469ed3fab9b28658919562882aed">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.2.0_1d775419a9d389ef78b435cd160f793be84d1225\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_1620bb8979dbe6973cda854e3ebf982409dc5521\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7c3d19bef9a4761ab4711252f401a1d202a42efb">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0800cb9979f943e697084e6eaaeb70dfb97e836c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.2.0_4c6b4f55143f0edf1bf814acfca8245b689a4db4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.2.0_cb0148ef19189e0769ce879e5d8104d31b204e5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3aaf1e7b5fe9f4d3ff22c4edc0ead631f7389d30">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.2.0_22ddf5bbd24c5cb0e64ce8265c2174e7f5fe960d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.2.0_c1bf41a147de40d6822bc379cf25a13443a3ee59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="444f9de23145e8caba7bf1c1772acad142ea6013">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.2.0_d86c8cec3091f25944815dbacf9e3df492de8608\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db4aca1c1ec60f2c098d3b6c91cedfb7838f83ed">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.2.0_cc3a0650997d501d556e63ee50166b7c84745035\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_05dc85b9e404270346fe2dbb036f9f106fda83d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.2.0_f7dd0ac17736e370500e6c5e2c748fa265586e01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d1d0e1270310e34e2d65afda2bc18605c14cd46">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.2.0_9dd91222b18a83641e1b63fa4b02b1a81b786450\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b831d3902674d096189451d46fce219e2c2904b7">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.2.0_35ee2751a7b4ae663fe223930db2142cb2130d18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.2.0_a5a8c20cd7376b76cf35b3b5aca6325387721071\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="101393e975eaf36e3ff40b277ee9a019e077afef">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.2.0_8730d54a8a5f890ee9bf6180e1fe30ea90adb579\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e7157a9577c983651d6c6ee313813424fe2d8ab6">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.2.0_e1520b10d66a9a319d79d967b893f0ad6ff6dd1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddb7fed808f4331174b59428ccfc46b3696c9812">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.2.0_48e9583555e3b8067c196cd8af220bbbb392ca16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7d14fe9bd2283b2eb7fcab08458aa0357917e138">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.2.0_91867b0daf478f0e1e294c92d7590bfab9718fee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="74c5a91d6510ad42410e8a047d90d2ea6721a0e0">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.2.0_8b5cf52dba7977f401ad8afd1008e22d26f2db06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\prog\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_d0f5dc46dfded336c59bf87faec05ef0ab7eae1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.2.0_50a65bad4740e139b95fd5b976d0079412c3b42a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.2.0_e2cb04632c5aa7df30a563561461709acbfb600e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6da05b7498da036b5b37c3beb861cd2060929dcd">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.2.0_ab03947d6eb158b6fc9459db16f82edc7088c20f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4e01b82d664e1a8253b2b9658e74b5da35c8771d">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.2.0_d60e451d89e523573959bda859b6575c3d9c7faa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.2.0_83ddb7b79fd8a8b22705b72d722c2eeb7ab2533b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.2.0_9c5f9d6e7d9336c67e8443203b18a8106bbbf30d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.2.0_1643fc1e5e422e3daae1d2080dbe456d8e3cfee2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="423fb69e69759d8b726fa4a4fb6a1ea9fc86d1cd">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.2.0_3dd2665d63e9fdc88ff47416f8d93889d4b7ddca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ahmed Badr\.gradle\caches\modules-2\files-2.1\com.squareup\otto\1.3.7\69d90fd7fb70e54746e26c10454c220e40a775ce\otto-1.3.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69d90fd7fb70e54746e26c10454c220e40a775ce">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\otto-1.3.7_fb9bcf5eec37eb72196cce9e1b14b2ab99fc3be5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="db48dfabe8ecc46681ceca418d6bd61a5339f818">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.2.0_44ee253156b10a538c538b39cef432e539b609d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="E:\FCI\Android\Apps\FlashLight1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.2.0_f1f1a8b1fe5f4a82c1f4578e9ec3c5fddbe53390\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\FCI\\Android\\Apps\\FlashLight1\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi\\btn_switch_on.png",
+        "source": "E:\\FCI\\Android\\Apps\\FlashLight1\\app\\src\\main\\res\\drawable-ldpi\\btn_switch_on.png"
+    },
+    {
+        "merged": "E:\\FCI\\Android\\Apps\\FlashLight1\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi\\ic_launcher.png",
+        "source": "E:\\FCI\\Android\\Apps\\FlashLight1\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\FCI\\Android\\Apps\\FlashLight1\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi\\btn_switch_off.png",
+        "source": "E:\\FCI\\Android\\Apps\\FlashLight1\\app\\src\\main\\res\\drawable-ldpi\\btn_switch_off.png"
+    }
+]

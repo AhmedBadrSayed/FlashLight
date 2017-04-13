@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\FCI\\Android\\Apps\\FlashLight1\\app\\build\\intermediates\\res\\merged\\release\\raw\\light_switch_on.mp3",
+        "source": "E:\\FCI\\Android\\Apps\\FlashLight1\\app\\src\\main\\res\\raw\\light_switch_on.mp3"
+    },
+    {
+        "merged": "E:\\FCI\\Android\\Apps\\FlashLight1\\app\\build\\intermediates\\res\\merged\\release\\raw\\light_switch_off.mp3",
+        "source": "E:\\FCI\\Android\\Apps\\FlashLight1\\app\\src\\main\\res\\raw\\light_switch_off.mp3"
+    }
+]

@@ -1,0 +1,7 @@
+#Thu Apr 13 23:26:50 EET 2017
+base.0=E\:\\FCI\\Android\\Apps\\FlashLight1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_97eb41e0b0d84ec309063b9005724489d47655b3
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\FCI\\Android\\Apps\\FlashLight1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0800cb9979f943e697084e6eaaeb70dfb97e836c\\classes.dex
+base.1=E\:\\FCI\\Android\\Apps\\FlashLight1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0800cb9979f943e697084e6eaaeb70dfb97e836c
+file.0=E\:\\FCI\\Android\\Apps\\FlashLight1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_97eb41e0b0d84ec309063b9005724489d47655b3\\classes.dex
